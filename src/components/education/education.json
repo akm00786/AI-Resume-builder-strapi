@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_education_educations",
+  "info": {
+    "displayName": "education"
+  },
+  "options": {},
+  "attributes": {
+    "educationId": {
+      "type": "integer"
+    },
+    "universityName": {
+      "type": "string"
+    },
+    "startDate": {
+      "type": "string"
+    },
+    "endDate": {
+      "type": "string"
+    },
+    "degree": {
+      "type": "string"
+    },
+    "major": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
